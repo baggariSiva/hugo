@@ -2,9 +2,9 @@ config:
   runTime: "Hugo"
   version: ""
   framework: "Hugo"
-  buildCommand: "Hugo"
+  buildCommand: "/hugo"
   buildDir: "public"
-  runCommand: "hugo server"
+  runCommand: "/hugo server"
   installCommand: ""
 ports:
   - protocol: "HTTPS"
