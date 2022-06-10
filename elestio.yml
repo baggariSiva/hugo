@@ -2,7 +2,7 @@ config:
   runTime: "Hugo"
   version: ""
   framework: "Hugo"
-  buildCommand: "hugo -D server"
+  buildCommand: ""
   buildDir: ""
   runCommand: "hugo server"
   installCommand: ""
