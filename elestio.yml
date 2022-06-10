@@ -5,6 +5,7 @@ config:
   buildCommand: "hugo -D server"
   buildDir: ""
   runCommand: "hugo server"
+  installCommand: ""
 ports:
   - protocol: "HTTPS"
     targetProtocol: "HTTP"
