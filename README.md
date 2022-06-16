@@ -2,7 +2,7 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/hugo"><img src="static\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-This is a very basic example of a simple Hugo App.
+This is a simple Hugo template created using Hugo server.
 
 <img src="static\images\screenshot-1.jpg" alt="screenshot of the Hugo app" width="100%" />
 
